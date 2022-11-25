@@ -1,6 +1,5 @@
 import axios from "axios";
-
-const BaseUrlV1 = "http://162.55.95.245:7030/api/v1";
+const BaseUrlV1 = "http://localhost:7030/api/v1";
 const Auth = "/auth";
 const Admin = "/admin";
 const CV = "/cv";
@@ -75,10 +74,5 @@ class Services {
       },
     });
   }
-  //   async sendcv(request) {
-  //     return await axios.post(`${base_app_url}${base_user_url}/fcm`, request, {
-  //       headers: { authorization: "bearer " + token },
-  //     });
-  //   }
 }
 export default new Services();
