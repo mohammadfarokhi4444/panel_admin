@@ -1,0 +1,28 @@
+.logotypeImage{
+    width: 30vw !important;
+    object-fit: contain !important;
+}
+.loginLogo{
+    justify-content: center !important;
+    width: 100% !important;
+    height: 100vh !important;
+    align-items: center !important;
+    display: grid !important;
+}
+
+@media (max-width: 350px) {
+    .loginLogo{
+        height: 20vh !important;
+    }
+    .logotypeImage{
+        width: 40vw !important;
+    }
+}
+@media only screen and  (min-width: 351px) and (max-width: 600px){
+    .loginLogo{
+        height: 20vh !important;
+    }
+    .logotypeImage{
+        width: 40vw !important;
+    }
+}

@@ -1,0 +1,19 @@
+.appBar{
+    width: 100% !important;
+    z-index: 1000 !important;
+}
+.toolbar{
+    padding: 0px 10px !important;
+}
+.headerMenuButtonSandwich{
+    margin:0px 10px !important;
+}
+.logotype{
+    white-space: nowrao !important;
+}
+.headerMenu{
+    margin: 10px !important;
+}
+.profileMenuLink{
+    cursor: pointer !important; 
+}

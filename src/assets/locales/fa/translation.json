@@ -1,0 +1,63 @@
+{
+  "login": {
+    "title": "ورود",
+    "greeting": "خوش آمدید",
+    "companyPanel": "پنل ادمین شرکت",
+    "username": "نام کاربری",
+    "password": "رمزعبور",
+    "required": "الزامی است"
+  },
+  "header": {
+    "logout": "خروج",
+    "companyPanel": "پنل ادمین شرکت"
+  },
+  "sidebar": {
+    "dashboard": "داشبورد",
+    "cv": "رزومه",
+    "product": "محصولات",
+    "car": "ماشین",
+    "book": "کتاب",
+    "admin": "ادمین"
+  },
+  "all": {
+    "error": "خطا",
+    "success": "موفق",
+    "noData": "محتوایی یافت نشد",
+    "delete": "آیا از حذف ایتم مطمئن هستید ؟",
+    "recovery": "امکان بازیابی وجود ندارد",
+    "edit": "ویرایش",
+    "back": "بازگشت",
+    "create": "ایجاد",
+    "required": "الزامی است",
+    "PasswordUnvalid": "باید شامل 5 کاراکتر، یک حرف بزرگ، یک حرف کوچک و یک عدد باشد"
+  },
+  "dashboard": {
+    "title": "داشبورد",
+    "total": "کل",
+    "today": "امروز",
+    "lastMonth": "ماه گذشته"
+  },
+  "resume": {
+    "title": "رزمه ها",
+    "firstname": "نام",
+    "lastname": "نام خانوادگی",
+    "mobile": "موبایل",
+    "type": "زمینه",
+    "actions": "عملیات",
+    "notFound": "هیچ رکوردی یافت نشد"
+  },
+  "admin": {
+    "title": "ادمین ها",
+    "firstname": "نام",
+    "lastname": "نام خانوادگی",
+    "username": "نام کاربری",
+    "status": "وضعیت",
+    "email": "ایمیل",
+    "lastLoginAt": "تاریخ و زمان آخرین ورود",
+    "createdAt": "تاریخ و زمان ایجاد",
+    "position": "نقش",
+    "actions": "عملیات",
+    "password": "رمز عبور",
+    "notFound": "هیچ رکوردی یافت نشد"
+  }
+}

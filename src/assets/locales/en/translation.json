@@ -1,0 +1,63 @@
+{
+  "login": {
+    "title": "LOGIN",
+    "greeting": "Welcome",
+    "companyPanel": "Company Admin Panel",
+    "username": "username",
+    "password": "password",
+    "required": "required"
+  },
+  "header": {
+    "logout": "Sign Out",
+    "companyPanel": "Company Admin Panel"
+  },
+  "sidebar": {
+    "dashboard": "Dashboard",
+    "cv": "Resume",
+    "product": "Product",
+    "car": "Car",
+    "book": "Book",
+    "admin": "Admin"
+  },
+  "all": {
+    "error": "Error",
+    "success": "Success",
+    "noData": "No Data Found",
+    "delete": "Are you sure to delete item ?",
+    "recovery": "You can not recovery",
+    "edit": "Edit",
+    "back": "Back",
+    "create": "Create",
+    "required": "required",
+    "PasswordUnvalid": "Must Contain 5 Characters, One Uppercase, One Lowercase and One Number"
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "total": "total",
+    "today": "today",
+    "lastMonth": "Last Month"
+  },
+  "resume": {
+    "title": "Resumes",
+    "firstname": "Firstname",
+    "lastname": "Lastname",
+    "mobile": "Mobile",
+    "type": "Type",
+    "actions": "Actions",
+    "notFound": "No records found"
+  },
+  "admin": {
+    "title": "Admins",
+    "firstname": "Firstname",
+    "lastname": "Lastname",
+    "username": "Username",
+    "status": "Status",
+    "email": "Email",
+    "lastLoginAt": "Last Login At",
+    "createdAt": "created At",
+    "position": "Position",
+    "actions": "Actions",
+    "password": "Password",
+    "notFound": "No records found"
+  }
+}
