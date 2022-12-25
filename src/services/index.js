@@ -1,5 +1,5 @@
 import axios from "axios";
-const BaseUrlV1 = "http://localhost:7030/api/v1";
+const BaseUrlV1 = "http://185.126.200.70:7033/api/v1";
 const Auth = "/auth";
 const Admin = "/admin";
 const CV = "/cv";
